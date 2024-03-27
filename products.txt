@@ -1,0 +1,5 @@
+Product: Product A, Price: $27.455672108491
+Product: Product A, Price: $84.2547587203064
+Product: Product A, Price: $56.99366774580291
+Product: Product E, Price: $82.53183558349082
+Product: Product E, Price: $18.07957543647529

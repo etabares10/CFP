@@ -9,7 +9,7 @@ public class GenerateInfoFiles {
 		
 		public static void createSalesMenFile(int randomSalesCount, String name, long id) {
 	        try {
-	            FileWriter writer = new FileWriter("/C:\\Users\\ETABARES\\Downloads/" + name + "_" + id + "_sales.txt");
+	            FileWriter writer = new FileWriter( name + "_" + id + "_sales.txt");
 	            Random random = new Random();
 	            for (int i = 0; i < randomSalesCount; i++) {
 	                int saleAmount = random.nextInt(1000); // Generate pseudo-random sales amount
@@ -26,7 +26,7 @@ public class GenerateInfoFiles {
 		public static void createProductsFile(int productsCount) {
 	        String[] products = {"Product A", "Product B", "Product C", "Product D", "Product E"};
 	        try {
-	            FileWriter writer = new FileWriter("/C:\\Users\\ETABARES\\Downloads/"+ "products.txt");
+	            FileWriter writer = new FileWriter("products.txt");
 	            Random random = new Random();
 	            for (int i = 0; i < productsCount; i++) {
 	                String productName = products[random.nextInt(products.length)];
@@ -45,7 +45,7 @@ public class GenerateInfoFiles {
 
 		    public static void createSalesManInfoFile(int salesmanCount) {
 		        try {
-		            FileWriter writer = new FileWriter( "/C:\\Users\\ETABARES\\Downloads/"+"salesmen.txt");
+		            FileWriter writer = new FileWriter( "salesmen.txt");
 		            Random random = new Random();
 		            for (int i = 0; i < salesmanCount; i++) {
 		                String name = NAMES[random.nextInt(NAMES.length)];
