@@ -1,0 +1,5 @@
+Producto: Product D, Precio: $79.30945541405391
+Producto: Product B, Precio: $79.50369594880863
+Producto: Product C, Precio: $91.54623651827767
+Producto: Product E, Precio: $37.711713346648665
+Producto: Product C, Precio: $7.954315809153323
