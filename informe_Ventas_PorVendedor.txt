@@ -1,0 +1,9 @@
+nombre=Erick Tabares;numeroD=1033342539;producto=Memoria ram;cantidadV=10.489.840
+nombre=John Moncada;numeroD=8460611;producto=USB;cantidadV=9.447.640
+nombre=John Moncada;numeroD=8460611;producto=HMI;cantidadV=3.636.765
+nombre=John Moncada;numeroD=8460611;producto=SSD;cantidadV=8.105.811
+nombre=Erick Tabares;numeroD=1033342539;producto=SSD;cantidadV=1.054.866
+nombre=Erick Tabares;numeroD=1033342539;producto=HMI;cantidadV=3.636.765
+nombre=Erick Tabares;numeroD=1033342539;producto=Portatil;cantidadV=5.777.459
+nombre=John Moncada;numeroD=8460611;producto=Memoria ram;cantidadV=2.279.305
+nombre=Erick Tabares;numeroD=1033342539;producto=USB;cantidadV=3.027.570

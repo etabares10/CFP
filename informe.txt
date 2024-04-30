@@ -1,0 +1,4 @@
+nombre=Erick Tabares;numeroD=8460611;producto=USB;cantidadV=5.384.335
+nombre=Erick Tabares;numeroD=8460611;producto=HMI;cantidadV=1.903.887
+nombre=Erick Tabares;numeroD=8460611;producto=SSD;cantidadV=2.878.633
+nombre=Erick Tabares;numeroD=8460611;producto=Memoria ram;cantidadV=3.159.321
